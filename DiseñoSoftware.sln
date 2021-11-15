@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CelularPrincipioSOLID", "CelularPrincipioSOLID\CelularPrincipioSOLID.csproj", "{648DAEB9-D09C-42CB-8DCB-629A0C3EECA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCPrincipioSOLID", "PCPrincipioSOLID\PCPrincipioSOLID.csproj", "{9B730409-350C-4F3F-B60E-8512746C7D1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{648DAEB9-D09C-42CB-8DCB-629A0C3EECA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{648DAEB9-D09C-42CB-8DCB-629A0C3EECA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{648DAEB9-D09C-42CB-8DCB-629A0C3EECA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{648DAEB9-D09C-42CB-8DCB-629A0C3EECA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B730409-350C-4F3F-B60E-8512746C7D1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B730409-350C-4F3F-B60E-8512746C7D1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B730409-350C-4F3F-B60E-8512746C7D1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B730409-350C-4F3F-B60E-8512746C7D1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35C42B8C-BA11-4F0E-8AEB-D2906D150B86}
+	EndGlobalSection
+EndGlobal
